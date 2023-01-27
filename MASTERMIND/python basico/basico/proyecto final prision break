@@ -1,0 +1,587 @@
+proyecto final 
+-----------------------------
+python basico 
+
+
+
+
+prision break
+
+
+print("eres un preso condenado a 50 años de prision, pero esta condena fue injusta ya que
+      tu te encontrabas en otra cuidad a la cual ocurrienron los hechos y estas decidido
+      a escapar de ese "hueco" . hace pocos dias ocurrieron varias revueltas en la prision
+      gracias a dos peligrosas bandas que hay en la carcel")
+
+ 
+
+
+pri("varios presos de tu celda lograron
+
+a=no hacer nada 
+
+-------------------------------------------------------
+b=ayudar al guardia y meterlo a tu celda 
+
+
+  3  =  3 
+
+
+ te encierras en la celda con el guardia de seguridad, pero esto causa que todos los 
+ presos te quieran matar 
+ 
+
+bool = puedes recoger la pistola del policia que esta en tu celda que haces ?
+
+
+
+
+ 1. llamar a mas guardias con el radio del poli
+
+    los presos cada vez estan mas cerca de forzar la cerradura y los refuerzos se demoran un rato mas
+
+
+    1. amenazar a los presos con la pistola del policia
+              
+
+               / usar .format 
+
+               if : bool,true ;
+     
+               logras disuadir a los presos con exito, mientras llegan los refuerzos
+     
+               el policia sirve como testigo de tu buena fe, por esto mismo se busca mirar tu caso 
+               lograste salir de la carcel de una de las mejores maneras, pero la mafia no olvidara lo que has hecho 
+
+
+               elif : bool,false ;
+
+               al dejar el arma tirada en el suelo uno de los presos logra recoger el arma del suelo y te acribilla a ti y al oficial 
+
+               no lograste salir de la carcel, meses despues se investigo y si dio la conclusion  de que eras inocente de lo que se te acusaba
+               quedaras en la memoria como un martir 
+    
+
+    2. no hacer nada
+
+
+      los presos intentan forzar la cerradura, en el momento en que estos la logran abrir entran los policias de refuerzo que
+      pediste, el policia que ayudaste aboga por ti y se busca mirar tu caso, se halla que no eres culpable de nada 
+      y a las semanas sales de prision de la mejor manera
+     
+
+
+ 
+
+ 2. amenazar a los presos con la pistola del poli 
+    
+/ usar .format
+
+    if : bool,true ;
+     
+     logras disuadir a los presos con exito, mientras llegan los refuerzos
+     
+     el policia sirve como testigo de tu buena fe, por esto mismo se busca mirar tu caso 
+     lograste salir de la carcel de una de las mejores maneras, pero la mafia no olvidara lo que has hecho 
+
+
+    elif : bool,false ;
+
+    al dejar el arma tirada en el suelo uno de los presos logra recoger el arma del suelo y te acribilla a ti y al oficial 
+
+     no lograste salir de la carcel, meses despues se investigo y si dio la conclusion  de que eras inocente de lo que se te acusaba
+     quedaras en la memoria como un martir 
+
+ 
+ 3. detener la puerta con tu cuerpo
+
+ los presos no pueden forzar la cerradura gracias a ti pero te empiezan a atacar con puñales y patadas 
+
+
+
+       if bool,true / usar .format
+
+       a. disparar le a los presos
+
+           los presos se asustan y huyen de la celda, el alboroto trajo a los policias de refuerzo 
+           el policia que salvaste da cuenta de tu buena fe y te ayuda para que puedas salir de la carcel 
+           pero unos dias antes de tu salida los presos a los que les disparaste copbran venganza.  mueres en
+           la carcel, tan cerca pero tan lejos  
+
+       b. amenzar con disparar
+
+           los presos se asustan y huyen de la celda, el alboroto trajo a los policias de refuerzo 
+           el policia que salvaste da cuenta de tu buena fe y te ayuda para que puedas salir de la carcel
+           sales de la carcel intacto y en busca de tu familia pero la mafia no olvida lo que hiciste 
+
+       
+
+       
+       elif bool,false 
+
+       a. mantenerte en la puerta apesar de todo 
+
+          los presos no pueden entrar en la celda gracias a ti, lograste darle tiempo suficiente a los refuerzos 
+          pero estas mal herido el policia nunca olvidara lo que hiciste por el, el es testigo en la investigacion 
+          que se hace y por esto mismo se te reduce tu condena y eres condenado a casa por carcel 
+       
+
+       b. quitarte de la puerta  
+
+          los presos logran entrar en la celda, ellos te empiezan a agredir y quedas muy mal herido pero
+          en ese momento entran los policias de refuerzo y te sacan de alli junto con el policia caido
+          el policia nunca olvidara lo que hiciste por el, el es testigo en la investigacion 
+          que se hace y por esto mismo se te reduce tu condena y eres condenado a casa por carcel 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+c=atacar al guardia 
+
+random.randit (entre tantontos numeros)
+.format 
+ 
+procedes a atacar al guardia con el resto de los presos el guardia queda 
+muy mal herido y te pide que le perdones la vida, los demas presos se retiran
+y dejan esta decicion en tus manos 
+
+
+
+   a. dejar vivir al policia
+
+
+      uno de los presos te empieza a regañar por no asesinar al policia 
+      en ese momento el toma la decision que no fuiste capaz de tomar tu
+      y el asesina al policia, en este momento entran mas policias 
+
+
+         
+         a. robar la tarjeta de seguridad 
+         
+            los guardias proceden a reducir a los presos 
+
+             a. enfrentar a los guardias 
+
+                    los guardias logran reducir a todos los reos con sus armas de dotacion
+                    incluyendote a ti, todos los reos son investigados y en la mayoria de los
+                    casos se envian a diferentes prisiones y se les aumenta la condena y tu no eres
+                    la exepcion. 
+
+
+
+
+
+
+             b. huir mientras el resto se enfretan a los guardias 
+
+
+
+                   huyes a una sala continua y luego te encuentras con un corredor bastante 
+                   extenso pero ves que hay dos puertas en este, una de estas puertas de la
+                   sala de descanso de los oficiales y la ultima puerta es la armeria
+
+                   a. seguir por el pasillo 
+                   b. entrar en la sala de descanso de los oficiales
+                   c. entrar en la armeria 
+
+                    
+ 
+
+
+
+         b. robar la pistola 
+
+            los guardias proceden a reducir a los presos 
+
+             a. enfrentar a los guardias 
+
+                 los policias reprenden a los reos con porras y tasears en eso
+                 momento tu disparas contra ellos hieres a uno de los policias 
+                 pero esto causa que el resto use sus armas de dotacion contra ti
+                 mueres en la revuelta, no lograste huir de prision..... 
+
+
+             b. huir mientras el resto se enfretan a los guardias 
+            
+
+                   huyes a una sala continua y luego te encuentras con un corredor bastante 
+                   extenso pero ves que hay dos puertas en este, una de estas puertas de la
+                   sala de descanso de los oficiales y la ultima puerta es la armeria
+
+                   a. seguir por el pasillo 
+                   b. entrar en la sala de descanso de los oficiales
+                   c. entrar en la armeria 
+
+
+
+         c. robar el juego de llaves del agente 
+
+            los guardias proceden a reducir a los presos 
+
+             a. enfrentar a los guardias 
+
+                    los guardias logran reducir a todos los reos con sus armas de dotacion
+                    incluyendote a ti, todos los reos son investigados y en la mayoria de los
+                    casos se envian a diferentes prisiones y se les aumenta la condena y tu no eres
+                    la exepcion. 
+
+
+
+
+             b. huir mientras el resto se enfretan a los guardias 
+                  
+
+                   huyes a una sala continua y luego te encuentras con un corredor bastante 
+                   extenso pero ves que hay dos puertas en este, una de estas puertas de la
+                   sala de descanso de los oficiales y la ultima puerta es la armeria
+
+                   a. seguir por el pasillo 
+                   b. entrar en la sala de descanso de los oficiales
+                   c. entrar en la armeria 
+
+
+   b. asesinar al policia 
+       
+
+
+     todos los presos quedan contentos con la ejecucion del polica, pero en ese
+     momento entran varios policias a la sala 
+
+         a. robar la tarjeta de seguridad 
+
+            los guardias proceden a reducir a los presos 
+
+             a. enfrentar a los guardias 
+
+                    los guardias logran reducir a todos los reos con sus armas de dotacion
+                    incluyendote a ti, todos los reos son investigados y en la mayoria de los
+                    casos se envian a diferentes prisiones y se les aumenta la condena y tu no eres
+                    la exepcion. 
+
+
+
+
+             b. huir mientras el resto se enfretan a los guardias 
+
+                   huyes a una sala continua y luego te encuentras con un corredor bastante 
+                   extenso pero ves que hay dos puertas en este, una de estas puertas de la
+                   sala de descanso de los oficiales y la ultima puerta es la armeria
+
+                   a. seguir por el pasillo 
+                   b. entrar en la sala de descanso de los oficiales
+                   c. entrar en la armeria 
+
+
+
+
+         b. robar la pistola 
+
+            los guardias proceden a reducir a los presos 
+
+
+             a. enfrentar a los guardias 
+
+
+                 los policias reprenden a los reos con porras y tasears en eso
+                 momento tu disparas contra ellos hieres a uno de los policias 
+                 pero esto causa que el resto use sus armas de dotacion contra ti
+                 mueres en la revuelta, no lograste huir de prision 
+
+
+             b. huir mientras el resto se enfretan a los guardias 
+
+
+                   huyes a una sala continua y luego te encuentras con un corredor bastante 
+                   extenso pero ves que hay dos puertas en este, una de estas puertas de la
+                   sala de descanso de los oficiales y la ultima puerta es la armeria
+
+                   a. seguir por el pasillo 
+                   b. entrar en la sala de descanso de los oficiales
+                   c. entrar en la armeria 
+
+
+
+         c. robar el juego de llaves del agente 
+            
+            los guardias proceden a reducir a los presos 
+
+             a. enfrentar a los guardias 
+
+                    los guardias logran reducir a todos los reos con sus armas de dotacion
+                    incluyendote a ti, todos los reos son investigados y en la mayoria de los
+                    casos se envian a diferentes prisiones y se les aumenta la condena y tu no eres
+                    la exepcion. 
+
+
+
+
+             b. huir mientras el resto se enfretan a los guardias 
+
+
+                   huyes a una sala continua y luego te encuentras con un corredor bastante 
+                   extenso pero ves que hay dos puertas en este, una de estas puertas de la
+                   sala de descanso de los oficiales y la ultima puerta es la armeria
+
+                   a. seguir por el pasillo 
+                   b. entrar en la sala de descanso de los oficiales
+                   c. entrar en la armeria 
+
+   
+
+   c. no hacer nada 
+
+      los presos te tachan de debil y te comienzan a atacar por tener compasion,
+      pero en ese momento entran varios uniformados a la sala en ese momento 
+      te separan de todos los presos y al oficial herido, el oficicial rinde
+      declaraciones y como este perdio el conocimiento este cree que le ayudaste, 
+      por esto mismo se te da una reduccion a tu condena y se te da casa por carcel
+
+
+
+
+ 
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+PISTOLA 
+
+
+
+
+                   huyes a una sala continua y luego te encuentras con un corredor bastante 
+                   extenso pero ves que hay dos puertas en este, una de estas puertas de la
+                   sala de descanso de los oficiales y la ultima puerta es la armeria
+
+                   a. seguir por el pasillo 
+
+
+                                  siegues por el pasillo a una sala, te das cuenta que esta es la recepcion de la prision y justo 
+                                  despues de todo esto esta la salida de la prision, pero te detienes en seco al ver que hay 
+                                  varios civiles que pensaban hacer visitas a sus seres queridos y un solo guardian acompañandolos 
+
+
+                                  a. quitarte la camisa e intentar pasar de incognito
+
+
+                                                 logras pasar entre la multitud que hay en la recepcion pero a la
+                                                 salida de la prision te topas con un equipo de asalto a fueras de 
+                                                 la prision, estos te requisan y te encuentran el arma de dotacion
+                                                 eres detenido inmediatamente. esta ahi quedo tu intento de escape 
+                                                 de la prision. 
+
+
+
+
+
+
+                                  b. Amenzar a todos los presentes con la pisto la pistola 
+
+
+                                             logras persuiadir a todos los presentes en la sala pero te das cuenta 
+                                             que a las afueras del resinto hay un equipo S.W.A.T listo para entrar 
+                                             el alboroto hace que estos apresuren su operacion, estos te abaten 
+                                             y mueres a las puertas de la libertad 
+
+
+
+
+
+                   b. entrar en la sala de descanso de los oficiales
+
+
+                        entras a la sala de los oficiales te percatas que esta esta totalmente
+                        vacia mientras escuchas un gran ruido en la armeria, te escabulles por
+                        la salida de emergecia del edifico y logras salir con exito de la carcel
+                        Felicidades has logrado escapar de la prision pero eres el mas buscado
+                        en el pais por todas tus acciones 
+    
+
+
+
+
+
+                   c. entrar en la armeria 
+
+
+                        entras en la armerria pero en ese instante te das cuenta que hay varios 
+                        oficiales armadados que se alistan para entrar a la accion, todos te ven 
+                        entrar a la sala y te inmovilizan de inmediato. se te imputan varios cargos 
+                        y tu intento de escape de la prision queda en el olvido  
+
+
+
+
+TARJETA 
+
+
+
+                   huyes a una sala continua y luego te encuentras con un corredor bastante 
+                   extenso pero ves que hay dos puertas en este, una de estas puertas de la
+                   sala de descanso de los oficiales y la ultima puerta es la armeria
+
+                   a. seguir por el pasillo 
+                   b. entrar en la sala de descanso de los oficiales
+                   c. entrar en la armeria 
+
+
+
+
+                        if==a
+
+                           sigues el pasillo hasta una sala, te das cuenta que esta es la
+                           recepcion de la prision, ves que hay personas civiles y varios agentes
+                           evacuandolas, cerca de esta recepcion hay una puerta con un lector de tarjetas
+
+                           A. usar la tarjeta para abrir la puerta
+                           B. intentar hacerse pasar por un civil
+
+
+                            if=a
+
+                                    te das cuenta que la puerta de te pide un codigo de aceso aparte de
+                                    la tarjeta para poder entrar, despues de varios intentos esta te un 
+                                    recordatorio 
+
+                                    "El pin se cambia segun la seccion y la tarjeta de acceso." 
+
+                                    estas en la seccion 37 de la prision y el numero de la tarjeta es 
+                                   (randit) {}, los intentos se te acaban y el terminaal se va a bloquear
+
+                                    a. juntar los dos numeros
+                                    b. multiplicar los dos numeros
+                                    c. sumar los dos numeros
+
+
+
+                                    if a 
+
+                                              la cerradura se bloqueo y salto la alarma de esta esto alerta a 
+                                              todos los policias que estan en la sala de al lado, estos te 
+                                              atrapan intentando forzar la cerradura, se te suman varios años
+                                              a tu condena, no lograste escapar 
+
+
+
+                                        elif=b
+
+                                              la cerradura te pide el resultado de esta operacion 
+
+
+                                             a.36*randit
+
+                                                        la cerradura se bloqueo y salto la alarma de esta esto alerta a 
+                                                        todos los policias que estan en la sala de al lado, estos te 
+                                                        atrapan intentando forzar la cerradura, se te suman varios años
+                                                        a tu condena, no lograste escapar 
+
+
+
+
+                                             b.37*randit
+
+                                                        la cerradura se abrio correctamente, esto te lleva una sala adjunta 
+                                                        donde hay varios casilleros tomas ropa de civil y te vas en uno de 
+                                                        los vehiculos de los guardias, sales de civil en un carro de uno de
+                                                        los trabajadores de la prision.........
+                                             
+
+                                             
+
+
+
+
+                                             c.50*randit 
+                                                        la cerradura se bloqueo y salto la alarma de esta esto alerta a 
+                                                        todos los policias que estan en la sala de al lado, estos te 
+                                                        atrapan intentando forzar la cerradura, se te suman varios años
+                                                        a tu condena, no lograste escapar 
+
+
+
+
+                                        elif=c
+
+                                             la cerradura se bloqueo y salto la alarma de esta esto alerta a 
+                                             todos los policias que estan en la sala de al lado, estos te 
+                                             atrapan intentando forzar la cerradura, se te suman varios años
+                                             a tu condena, no lograste escapar 
+                            
+
+                            if b
+
+                            los policias te reconocen y reconocen tu uniforme de la prision
+                            te capturan sin mediar palabras. se te suman varios años
+                            a tu condena, no lograste escapar
+
+
+                        elif b
+
+                        entras a la sala de los oficiales te percatas que esta esta totalmente
+                        vacia mientras escuchas un gran ruido en la armeria, te escabulles por
+                        la salida de emergecia del edifico y logras salir con exito de la carcel
+                        Felicidades has logrado escapar de la prision pero eres el mas buscado
+                        en el pais por todas tus acciones 
+
+                       
+
+                        elif c
+                       
+                        entras en la armerria pero en ese instante te das cuenta que hay varios 
+                        oficiales armadados que se alistan para entrar a la accion, todos te ven 
+                        entrar a la sala y te inmovilizan de inmediato. se te imputan varios cargos 
+                        y tu intento de escape de la prision queda en el olvido 
+
+
+
+
+
+JUEGO DE LLAVES
+
+
+
+                   huyes a una sala continua y luego te encuentras con un corredor bastante 
+                   extenso pero ves que hay dos puertas en este, una de estas puertas de la
+                   sala de descanso de los oficiales y la ultima puerta es la armeria
+
+                   a. seguir por el pasillo 
+                   b. entrar en la sala de descanso de los oficiales
+                   c. entrar en la armeria 
+
+
+
+
+
+                   if == a 
+  
+                      sigues por el pasillo a una sala te das cuenta que esta 
+                      es la recepcion y hay varios civiles siendo evacuados 
+                      por varios agentes estos te ven y te reducen, no pudiste escapar
+                      de prision.
+
+                   elif = b
+
+                        entras a la sala de los oficiales te percatas que esta esta totalmente
+                        vacia mientras escuchas un gran ruido en la armeria, te escabulles por
+                        la salida de emergecia del edifico y logras salir con exito de la carcel
+                        Felicidades has logrado escapar de la prision pero eres el mas buscado
+                        en el pais por todas tus acciones
+
+                    elif = c
+
+                        entras en la armerria pero en ese instante te das cuenta que hay varios 
+                        oficiales armadados que se alistan para entrar a la accion, todos te ven 
+                        entrar a la sala y te inmovilizan de inmediato. se te imputan varios cargos 
+                        y tu intento de escape de la prision queda en el olvido 
+
+
+
