@@ -42,10 +42,10 @@ while vida_pikachu >0 and vida_magikart >0:
 
  
     print("la vida de la pikachu es:\n" 
-            "[{}]\n" 
+            "[{}{}]\n" 
             "la vida de magikart es:\n" 
-            "[{}]\n"
-            .format(barra_vida_pica*"#",barra_vida_magi*"#"))
+            "[{}{}]\n"
+            .format(barra_vida_pica*"#"," "*(tamanio_barra-barra_vida_pica),barra_vida_magi*"#"," "*(tamanio_barra*barra_vida_magi)))
     
 
     input("Oprime enter para continuar...... \n")
@@ -70,28 +70,42 @@ while vida_pikachu >0 and vida_magikart >0:
         print("magikart ataca con placaje")
         vida_pikachu =- 15
     
+    barra_vida_pica=int(vida_pikachu*tamanio_barra/vida_pikachu_in)
+    barra_vida_magi=int(vida_magikart*tamanio_barra/vida_magikart_in)
+    print("la vida de la pikachu es:\n" 
+            "[{}{}]\n" 
+            "la vida de magikart es:\n" 
+            "[{}{}]\n"
+            .format(barra_vida_pica*"#"," "*(tamanio_barra-barra_vida_pica),barra_vida_magi*"#"," "*(tamanio_barra*barra_vida_magi)))
     
     
-    elif ataque_magikart=="b":
-
+    
+    if ataque_magikart=="b":
         print("magikart ataca con burbuja de agua")
         vida_pikachu =-13
-    
+        barra_vida_pica=int(vida_pikachu*tamanio_barra/vida_pikachu_in)
+        barra_vida_magi=int(vida_magikart*tamanio_barra/vida_magikart_in)
+
+ 
+    print("la vida de la pikachu es:\n" 
+            "[{}{}]\n" 
+            "la vida de magikart es:\n" 
+            "[{}{}]\n"
+            .format(barra_vida_pica*"#"," "*(tamanio_barra-barra_vida_pica),barra_vida_magi*"#"," "*(tamanio_barra*barra_vida_magi)))
 
     
-    elif ataque_magikart =="a":
-
+    if ataque_magikart =="a":
         print("magikart ataca con pistola de agua")
         vida_pikachu =- 14
 
-    barra_vida_pica=int(vida_pikachu*100/vida_pikachu_in)
-    barra_vida_magi=int(vida_magikart*100/vida_magikart_in)
+        barra_vida_pica=int(vida_pikachu*100/vida_pikachu_in)
+        barra_vida_magi=int(vida_magikart*100/vida_magikart_in)
 
 
     
-    print(titulo,len(titulo)*'-')
     input("Oprime enter para continuar...... \n")
     input("Enter para continuar...... \n")
+
 
 if vida_pikachu>vida_magikart:
     print("pikachu gana!")
@@ -106,20 +120,3 @@ else:
 
 
     
-
-
-        
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
